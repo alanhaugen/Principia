@@ -6,5 +6,9 @@ Edition 3.3
 
 https://www.people.vcu.edu/~rhammack/BookOfProof/Main.pdf
 
+Matematikk for Ingeniørfag, Gyldendal Akademisk
+© 2013 by Gulbransen, Kleppe, Kro, Vatne
+
 ## Study plan
 
+Functions week 34
